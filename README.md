@@ -14,5 +14,5 @@ This is just a testing repository focusing to learn basics git
 ```console
 $ git add <name of files you want to add OR '.' for all changes>
 $ git commit -m "write a msg in one line explaining what you did in this commit"
-$ git push
+$ git push origin main
 ```
