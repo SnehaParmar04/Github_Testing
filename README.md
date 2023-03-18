@@ -21,4 +21,5 @@ You can generate multiple tokens, Refer https://docs.github.com/en/authenticatio
 
 
 
-> personal access token to push : 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
+> personal access token to push : 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
+
