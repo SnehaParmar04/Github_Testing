@@ -16,6 +16,8 @@ $ git add <name of files you want to add OR '.' for all changes>
 $ git commit -m "write a msg in one line explaining what you did in this commit"
 $ git push origin main
 ```
+* For the first time it will ask for your username and password. Enter your username and in password write the token below. 
+You can generate multiple tokens, Refer https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-token-on-the-command-line
 
 
 
