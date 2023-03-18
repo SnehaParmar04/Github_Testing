@@ -16,3 +16,7 @@ $ git add <name of files you want to add OR '.' for all changes>
 $ git commit -m "write a msg in one line explaining what you did in this commit"
 $ git push origin main
 ```
+
+
+
+> personal access token to push : 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
