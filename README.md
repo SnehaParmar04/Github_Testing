@@ -1,4 +1,4 @@
-# testingbysmit
+# testing
 This is just a testing repository focusing to learn basics git
 
 ## Create a GIT repository for your project
